@@ -1,0 +1,11 @@
+
+.intro {
+    font-family: Roboto;
+}
+
+.images {
+    height: 350px;  
+    width: 620px;
+    border-radius: 25px;
+    margin-bottom: 40px;
+}

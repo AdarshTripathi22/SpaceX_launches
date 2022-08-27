@@ -1,0 +1,13 @@
+
+
+.page-container {
+    font-family: Roboto;
+}
+
+.intro {
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

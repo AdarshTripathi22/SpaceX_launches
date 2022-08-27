@@ -1,0 +1,21 @@
+
+
+
+.Logo{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+a{
+    color: white;
+}
+
+
+
+.Footer {
+    color: white;
+    background-color: rgb(45, 43, 43);
+    width: 100%;
+}
